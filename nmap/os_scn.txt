@@ -1,0 +1,2 @@
+# Nmap 7.80 scan initiated Wed May 29 14:31:04 2024 as: nmap -O -oN os_scn.txt 192.168.1.1
+# Nmap done at Wed May 29 14:31:07 2024 -- 1 IP address (0 hosts up) scanned in 3.27 seconds
